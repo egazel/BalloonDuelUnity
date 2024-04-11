@@ -1,0 +1,51 @@
+[
+    {
+        "id": 0,
+        "name": "Angel Wings",
+        "desc": "A single flap will send you soaring!",
+        "energyCost": 30,
+        "price": 150
+    },
+    {
+        "id": 1,
+        "name": "Devil Wings",
+        "desc": "Fall from the sky with unholy speed!",
+        "energyCost": 30,
+        "price": 160
+    },
+    {
+        "id": 2,
+        "name": "Reflect generator",
+        "desc": "Protect yourself from anything that violates your space with a repulsive shield!",
+        "energyCost": 30,
+        "price": 150
+    },
+    {
+        "id": 3,
+        "name": "Flame thrower",
+        "desc": "Short ranged weapon that can heat up your opponent's balloons, making it pop !",
+        "energyCost": 30,
+        "price": 175
+    },
+    {
+        "id": 4,
+        "name": "Marble launcher",
+        "desc": "Shoot up a marble out from the back to throw off enemies in the sky!",
+        "energyCost": 30,
+        "price": 150
+    },
+    {
+        "id": 5,
+        "name": "Jet",
+        "desc": "Powerful light-weight rocket for horizontal movement. It's as strong as your battery",
+        "energyCost": 30,
+        "price": 300
+    },
+    {
+        "id": 6,
+        "name": ".357 Magnum",
+        "desc": "This gun has been approved by the balloon popping federation. It can't kill, but it will pop!",
+        "energyCost": 30,
+        "price": 325
+    }
+]
